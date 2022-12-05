@@ -1,6 +1,6 @@
 /**
  * @file kd_tree.cpp
- * @brief An implementation of kd-tree
+ * competitive-verifier: document_title An implementation of kd-tree
  * @author knuu
  * @date 2018/09/16
  *

@@ -1,6 +1,6 @@
 /**
  * @file range_tree.cpp
- * @brief An implementation of range tree
+ * competitive-verifier: document_title An implementation of range tree
  * @author knuu
  * @date 2018/09/16
  *

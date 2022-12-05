@@ -1,5 +1,5 @@
 /**
- * @brief ange Sum Query by FenwickTree(Binary Indexed Tree)
+ * competitive-verifier: document_title ange Sum Query by FenwickTree(Binary Indexed Tree)
  *
  * total number: n
  * queries:
